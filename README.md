@@ -13,7 +13,7 @@ Now that they’ve hired a new data team and are strategizing their marketing bu
 ![Slide3](https://github.com/user-attachments/assets/d68312be-d391-47b2-b80f-95f9b91b2e69)
 ![Slide4](https://github.com/user-attachments/assets/720e91e1-bde2-4905-bbfb-e6d1fd970d04)
 ![Slide5](https://github.com/user-attachments/assets/d763d73b-ca28-43ee-aeb1-7dd416fff458)
-![Slide6](https://github.com/user-attachments/assets/591fc6de-b10e-4916-a1b3-c6c06b81ce4e)
+![Slide6](https://github.com/user-attachments/assets/2f1fb6c3-18ac-4050-998b-0d0d240f2271)
 ![Slide7](https://github.com/user-attachments/assets/c285c897-a6a7-4ebc-a573-2824126ce07b)
 ![Slide8](https://github.com/user-attachments/assets/84757440-e5a8-4e9e-8c18-7a3d5b36380f)
 ![Slide9](https://github.com/user-attachments/assets/7bc21734-1579-46e3-9802-83ea5d59dfa2)
@@ -28,5 +28,3 @@ Now that they’ve hired a new data team and are strategizing their marketing bu
 ![Slide18](https://github.com/user-attachments/assets/b128b51b-a631-4c4d-abbe-874f4ec22dd4)
 ![Slide19](https://github.com/user-attachments/assets/0a8334f5-61a8-4f32-a9a8-48c4a275d3ff)
 ![Slide20](https://github.com/user-attachments/assets/db951797-df29-4548-a13a-78dbf22af85b)
-
-
