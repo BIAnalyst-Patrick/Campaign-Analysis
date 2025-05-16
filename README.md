@@ -5,6 +5,10 @@ Founded in 2016, Row Health is a medical insurance company serving over thousand
 Now that they’ve hired a new data team and are strategizing their marketing budget for the year, the company would like to build more understanding of the effectiveness of these campaign categories and how they relate to signups and subsequent patient claims. The budget is allocated to drive two primary objectives: 
 1) to increase the number of customer signups
 2) to raise awareness of Row Health’s brand across the country.
+
+![Marketing](https://github.com/user-attachments/assets/aef2dd61-f0dc-4ff9-a015-8ce6cb3b7b79)
+![signups and claims](https://github.com/user-attachments/assets/cbf410d9-375b-4e36-9287-295090e71b38)
+
 ![Slide2](https://github.com/user-attachments/assets/c6159711-40fd-472f-9f7a-66f9f9413c27)
 ![Slide3](https://github.com/user-attachments/assets/d68312be-d391-47b2-b80f-95f9b91b2e69)
 ![Slide4](https://github.com/user-attachments/assets/720e91e1-bde2-4905-bbfb-e6d1fd970d04)
@@ -24,3 +28,5 @@ Now that they’ve hired a new data team and are strategizing their marketing bu
 ![Slide18](https://github.com/user-attachments/assets/b128b51b-a631-4c4d-abbe-874f4ec22dd4)
 ![Slide19](https://github.com/user-attachments/assets/0a8334f5-61a8-4f32-a9a8-48c4a275d3ff)
 ![Slide20](https://github.com/user-attachments/assets/db951797-df29-4548-a13a-78dbf22af85b)
+
+
