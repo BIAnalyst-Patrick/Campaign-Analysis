@@ -13,7 +13,7 @@ Now that they’ve hired a new data team and are strategizing their marketing bu
 ![Slide3](https://github.com/user-attachments/assets/96bb4e44-04a6-42f0-a1c3-0d47b75e515c)
 ![Slide4](https://github.com/user-attachments/assets/e5c45b40-fc62-4e37-8d93-e187054779e9)
 ![Slide5](https://github.com/user-attachments/assets/8aa49619-7bbf-414d-8701-d4c951881797)
-![Slide6](https://github.com/user-attachments/assets/fed742eb-2d87-424e-8f56-2e6cedbefc91)
+![Slide6](https://github.com/user-attachments/assets/3dd8fa54-889d-447a-8459-1527aecb3dc3)
 ![Slide7](https://github.com/user-attachments/assets/66dc22a6-f303-41ff-bcff-453baf769ba2)
 ![Slide8](https://github.com/user-attachments/assets/8d868172-0448-4ef9-b3df-3f7c9a2d68cf)
 ![Slide9](https://github.com/user-attachments/assets/337d44c5-b2ee-46e9-b7a6-07f8c5886bc7)
